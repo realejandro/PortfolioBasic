@@ -1,0 +1,69 @@
+body{
+    background-color: aquamarine;
+}
+/*section presentation style*/
+#presentation{
+    display: flex;
+    padding: 10px;
+    
+}
+
+.img_presentation{
+    padding: 1%;
+    width: 20%;
+}
+
+.img_presentation img{
+    border-radius: 50%;
+}
+
+.info_presentation{
+    display: flex;
+    width: 80%;
+    
+}
+
+/*Expertise Area*/
+#expertise{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#expertise div h3{
+    padding-left: 25px;
+}
+
+
+/*Experience style*/
+#experience div h3{
+    padding-left: 25px;
+}
+
+/*Section technical skill style*/
+#skills div h3{
+    padding-left: 25px;
+}
+
+#technical_skill_table td{
+    padding: 5px;
+}
+
+/*About Me style*/
+#skill div h3{
+    padding-left: 25px;
+}
+
+
+/*contact styles*/
+.input_contact-form{
+    padding: 5px;
+}
+
+.textarea_contact-form{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+
+}
